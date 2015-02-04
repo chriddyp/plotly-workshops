@@ -1,4 +1,13 @@
 # plotly-workshops
+### A brief history
+    Web technologies:
+        - [2010, NYTimes](http://www.nytimes.com/interactive/2009/03/01/business/20090301_WageGap.html)
+        - [2010, D3.js](http://bl.ocks.org/mbostock/7452541)
+        - [2011, WebGL in Chrome](http://www.marky.pl/vector-field/)
+
+    Overview of scientific and engineering graphing
+        - MATLAB
+        
 
 ### Content on Plotly
 #### Journalism
