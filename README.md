@@ -3,8 +3,7 @@
 ### Content on Plotly
 #### Journalism
 - [Washington Post](http://www.washingtonpost.com/blogs/wonkblog/wp/2013/06/1 4/do-low-taxes-on-the-rich-leave-the-middle-class-with-lower- wages/)
-- [Wired]
-
+- [Wired](wired.com/2014/07/contour-plots-with-python-and-plotly/)
 
 
 ### Projects
