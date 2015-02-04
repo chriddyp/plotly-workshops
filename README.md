@@ -26,7 +26,7 @@ Ideas:
 - Graph tweets in real-time
 - Graph sensor data in real-time
 
-#### Ipython Widgets
+#### IPython Widgets
 [Examples and documentation](http://moderndata.plot.ly/widgets-in-ipython-notebook-and-plotly/)
 
 
