@@ -1,9 +1,13 @@
 # plotly-workshops
 
+### User content
+
+
+
 ### Projects
 
 #### Graph some data
-Plotly tutorials: plot.ly/learn
+Plotly tutorials: [plot.ly/learn/](https://plot.ly/learn/)
 
 Data sources
 - Open data
@@ -29,4 +33,6 @@ Ideas:
 #### IPython Widgets
 [Examples and documentation](http://moderndata.plot.ly/widgets-in-ipython-notebook-and-plotly/)
 
-
+#### Contribute
+- [Our open-source projects](https://github.com/plotly)
+- [ggplot2 to Plotly converter](https://github.com/ropensci/plotly)
