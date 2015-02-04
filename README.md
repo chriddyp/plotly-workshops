@@ -1,6 +1,9 @@
 # plotly-workshops
 
-### User content
+### Content on Plotly
+#### Journalism
+- [Washington Post](http://www.washingtonpost.com/blogs/wonkblog/wp/2013/06/1 4/do-low-taxes-on-the-rich-leave-the-middle-class-with-lower- wages/)
+- [Wired]
 
 
 
@@ -20,6 +23,10 @@ Data sources
   - [Yelp](http://officialblog.yelp.com/2014/07/calling-all-developers-yelps-revamped-api-site-now-open-for-business.html)
 
 #### Real-time streaming
+Inspiration:
+- [Raspberry Pi seismic sensor stream](https://twitter.com/cjunkk/status/467224619444084736/photo/1)
+- [Double pendulum simulation](https://plot.ly/~streaming-demos/4)
+
 Getting started:
 - Python: https://plot.ly/python/streaming
 - Node.js: https://github.com/plotly/plotly-nodejs
